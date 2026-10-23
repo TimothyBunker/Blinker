@@ -1,2 +1,5 @@
 # Blinker
-Developing a easily portable interface for people whom may only be able to blink at best.
+
+An idea for an interface controlled through blinking.
+
+This repository contains the project note and license. It does not yet include an implementation, hardware integration, or usability results.
